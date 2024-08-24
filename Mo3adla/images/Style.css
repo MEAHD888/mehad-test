@@ -1,0 +1,365 @@
+.li2 {
+	COLOR: #d66000
+}
+UL {
+	LIST-STYLE-TYPE: square
+}
+BODY {
+	BACKGROUND-COLOR: #eaeae3
+}
+TD {
+	FONT-SIZE: 72%; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+A.top {
+	FONT-SIZE: 79%; COLOR: #933434; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.top:visited {
+	FONT-SIZE: 79%; COLOR: #933434; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.top:hover {
+	FONT-SIZE: 79%; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.inputs {
+	BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 100%; BORDER-LEFT: #dcdcdc 1px solid; WIDTH: 126px; COLOR: #000000; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Tahoma
+}
+.inputs_lrg {
+	BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 79%; BORDER-LEFT: #dcdcdc 1px solid; WIDTH: 200px; COLOR: #000000; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f8f8f8
+}
+.inputs_lrg2 {
+	BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 79%; BORDER-LEFT: #dcdcdc 1px solid; WIDTH: 275px; COLOR: #000000; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f8f8f8
+}
+.inputs_lrg3 {
+	BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 79%; BORDER-LEFT: #dcdcdc 1px solid; WIDTH: 360px; COLOR: #000000; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f8f8f8
+}
+.inputs_small {
+	BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 79%; BORDER-LEFT: #dcdcdc 1px solid; WIDTH: 120px; COLOR: #000000; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f8f8f8
+}
+.inputs_small2 {
+	BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #dcdcdc 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 79%; BORDER-LEFT: #dcdcdc 1px solid; WIDTH: 90px; COLOR: #000000; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f8f8f8
+}
+.pink_txt {
+	FONT-SIZE: 79%; COLOR: #ffb2b2; FONT-FAMILY: Tahoma
+}
+A.black_ln:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.black_ln:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.black_ln:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #be0000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.TickerTip:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+A.TickerTip:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+A.TickerTip:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; COLOR: #be0000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 79%; COLOR: #404040; FONT-FAMILY: Tahoma
+}
+A.ln_subsection:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.ln_subsection:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.ln_subsection:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #b10a11; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.balck_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 72%; COLOR: #3f3b38; FONT-FAMILY: tahoma
+}
+.subtitle {
+	BACKGROUND-POSITION: right 50%; FONT-WEIGHT: bold; FONT-SIZE: 79%; BACKGROUND-IMAGE: url(../../../../arabic/images/most_bg.html); COLOR: #161616; BACKGROUND-REPEAT: repeat-y; FONT-FAMILY: tahoma
+}
+A.subtitle:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 76%; COLOR: #161616; FONT-FAMILY: tahoma; TEXT-DECORATION: underline
+}
+A.subtitle:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 76%; COLOR: #161616; FONT-FAMILY: tahoma; TEXT-DECORATION: underline
+}
+A.subtitle:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 76%; COLOR: #161616; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.section {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial; HEIGHT: 20px; BACKGROUND-COLOR: #b50000
+}
+.subsection {
+	FONT-WEIGHT: normal; FONT-SIZE: 74%; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+.Items {
+	FONT-WEIGHT: normal; FONT-SIZE: 100%; COLOR: #000000; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f8f8f8
+}
+.Items2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 72%; COLOR: #000000; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f8f8f8
+}
+A.redln:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 79%; COLOR: #ffb2b2; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.redln:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 79%; COLOR: #ffb2b2; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.redln:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 79%; COLOR: #ffb2b2; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.white_txt {
+	FONT-WEIGHT: bold; FONT-SIZE: 79%; COLOR: #ffffff; FONT-FAMILY: Tahoma
+}
+.err {
+	COLOR: #cf0c0c
+}
+.li {
+	FONT-SIZE: 100%; COLOR: #d66000; BACKGROUND-COLOR: #f8f8f8
+}
+.li_lrg {
+	FONT-SIZE: 150%; COLOR: #d66000; BACKGROUND-COLOR: #f8f8f8
+}
+.li_white {
+	COLOR: #d66000; BACKGROUND-COLOR: #ffffff
+}
+.red {
+	FONT-SIZE: 100%; COLOR: #be0000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.red2 {
+	FONT-SIZE: 12px; COLOR: #d66000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.gray_header {
+	FONT-SIZE: 79%; BACKGROUND-IMAGE: url(../../../../arabic/images/gray_header.html); COLOR: #be0000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.gray_header_light {
+	FONT-SIZE: 79%; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.menuon {
+	FONT-SIZE: 11px; COLOR: #d5d5d5
+}
+.menuoff {
+	FONT-SIZE: 11px; COLOR: #ffffff
+}
+.DarkGrayRow {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #dddbdb
+}
+.Resources_bg {
+	BACKGROUND-COLOR: #fafbfb
+}
+.gridHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 79%; COLOR: #ffffff; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #b50000
+}
+.gridItem {
+	FONT-WEIGHT: normal; FONT-SIZE: 75%; COLOR: #3d332c; FONT-FAMILY: Tahoma
+}
+.gridAltItem {
+	FONT-WEIGHT: normal; FONT-SIZE: 75%; COLOR: #3d332c; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #f0efed
+}
+A.menu_black {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.menu_black:visited {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.menu_black:hover {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.subsecbar {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: Arial; HEIGHT: 20px; BACKGROUND-COLOR: #f0efed
+}
+.contenttitle2_bill {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #cc0000; FONT-FAMILY: Simplified Arabic, Arial
+}
+.contentframe {
+	FONT: bold 12px Simplified Arabic; BACKGROUND-COLOR: #a7a7a7
+}
+.contenttitle2_bill {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #cc0000; FONT-FAMILY: Simplified Arabic, Arial
+}
+.contenttitle3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #748e9f; FONT-FAMILY: Simplified Arabic
+}
+.content {
+	FONT-SIZE: 15px; FONT-FAMILY: Simplified Arabic
+}
+.content2_bill {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; FONT-FAMILY: Simplified Arabic, Arial
+}
+.content3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 79%; FONT-FAMILY: Simplified Arabic
+}
+.content3_bill {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: Simplified Arabic, Arial, Arial
+}
+.graybg {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.grayborder {
+	BORDER-RIGHT: #c9c9c9 1px solid; BORDER-TOP: #c9c9c9 1px solid; BORDER-LEFT: #c9c9c9 1px solid; BORDER-BOTTOM: #c9c9c9 1px solid
+}
+.content4_bill {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: #cc0000; FONT-FAMILY: Simplified Arabic, Arial
+}
+.grayinput6 {
+	BORDER-RIGHT: #c9c9c9 1px solid; BORDER-TOP: #c9c9c9 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10pt; BORDER-LEFT: #c9c9c9 1px solid; WIDTH: 280pt; BORDER-BOTTOM: #c9c9c9 1px solid; FONT-FAMILY: Simplified Arabic; HEIGHT: 15pt; BACKGROUND-COLOR: #f5f5f5
+}
+.black_2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.black_Mnu {
+	FONT-WEIGHT: bold; FONT-SIZE: 135%; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.redtitle {
+	FONT-SIZE: 79%; COLOR: #cc0000; FONT-FAMILY: tahoma
+}
+.gray_txt {
+	FONT-SIZE: 79%; COLOR: #54514c; FONT-FAMILY: Tahoma
+}
+.darkred {
+	FONT-SIZE: 79%; COLOR: #890101; FONT-FAMILY: Tahoma
+}
+.Citizentitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 60%; COLOR: #890101; FONT-FAMILY: Tahoma
+}
+.darkblue {
+	FONT-SIZE: 79%; COLOR: #1e419c; FONT-FAMILY: Tahoma
+}
+A.blue_ln:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #1e419c; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.blue_ln:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #2f5cd7; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.blue_ln:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #1e419c; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.Foriegntitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 60%; COLOR: #183684; FONT-FAMILY: Tahoma
+}
+.darkbrown {
+	FONT-SIZE: 76%; COLOR: #875226; FONT-FAMILY: Tahoma
+}
+.businessntitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 60%; COLOR: #794a22; FONT-FAMILY: Tahoma
+}
+A {
+	FONT-SIZE: 98%; COLOR: #5b5b5b; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 98%; COLOR: gray; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 98%; COLOR: #5b5b5b; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.red_ln:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #890101; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.red_ln:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #be0000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.red_ln:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #890101; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.brown_ln:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #794a22; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.brown_ln:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #c27536; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.brown_ln:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #794a22; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.contentBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #353535; FONT-FAMILY: Tahoma
+}
+A.blacknormal_ln:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.blacknormal_ln:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.blacknormal_ln:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #be0000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.brown_big_txt {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #777016; FONT-FAMILY: Arial
+}
+.btn {
+	BORDER-RIGHT: #00224c 1px solid; BORDER-TOP: #00224c 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 13px; BACKGROUND-IMAGE: url(../../../../arabic/images/btn_bg.html); BORDER-LEFT: #00224c 1px solid; WIDTH: 45px; CURSOR: hand; BORDER-BOTTOM: #00224c 1px solid; FONT-FAMILY: Arial; HEIGHT: 18px
+}
+.purpletitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #566b86; FONT-FAMILY: Arial
+}
+A.gold_ln:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #353535; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.gold_ln:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #353535; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.gold_ln:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #353535; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.toptabs_on {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #4a4a4b; FONT-FAMILY: Arial
+}
+.onfont {
+	FONT-SIZE: 12px; COLOR: #900000; FONT-FAMILY: Tahoma
+}
+.onfont_Footer {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Tahoma
+}
+A.white_ln:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white_ln:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white_ln:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white_normal_ln:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white_normal_ln:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white_normal_ln:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.toptabs:link {
+	FONT-SIZE: 13px; COLOR: #4a4a4b; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.toptabs:visited {
+	FONT-SIZE: 13px; COLOR: #4a4a4b; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.toptabs:hover {
+	FONT-SIZE: 13px; COLOR: #ff9c00; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+.golden_txt {
+	FONT-WEIGHT: bold; FONT-SIZE: 78%; COLOR: #655c12; FONT-FAMILY: Verdana
+}
+.menuhover {
+	BACKGROUND-IMAGE: url(../../../../arabic/images/menuhoverRed.html); BACKGROUND-REPEAT: repeat-x
+}
+.menuabouthover {
+	BACKGROUND-IMAGE: url(../../../../arabic/images/about_bg_hoverRed4.html); BACKGROUND-REPEAT: repeat-x
+}
+#pscroller1 {
+	WIDTH: 200px; HEIGHT: 30px
+}
+#pscroller2 {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: black 1px solid; WIDTH: 350px; BORDER-BOTTOM: black 1px solid
+}
+#pscroller2 A {
+	TEXT-DECORATION: none
+}
+.grayFadeSmall {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: right 50%; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(../../../../arabic/images/gray_header_strip.html); COLOR: white; BACKGROUND-REPEAT: repeat-y; FONT-FAMILY: Tahoma; HEIGHT: 22px
+}
+.txt {
+	FONT-WEIGHT: normal; FONT-SIZE: 78%; COLOR: black; FONT-FAMILY: Arial
+}
+
+.icons ul {margin:0;padding:0 ;list-style:none;overflow:visible;}
+.icons ul li{float:center;display:inline;margin:0 7px;padding:0!important;background:none!important;color:#2D607D !important}
+.icons ul li span{display:block;margin-left:20px;color:red!important;font:normal 16px tahoma!important;margin-top:5px}
+.icons {padding:10px  100px 0;} a img{border:0}

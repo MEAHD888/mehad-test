@@ -1,0 +1,245 @@
+﻿
+/* HTML Elements */
+
+* {
+	margin:0;
+	padding:0;
+	outline:none;
+	}
+
+
+html {
+/*Firefox scrollbar fix*/
+	}
+	
+body {
+/*Firefox scrollbar fix*/
+	}
+
+body  {
+	  vertical-align:baseline; color:#757575; direction:rtl; background: url("https://tansik.digital.gov.eg/application/Certificates/Nile/images/backgroundAr.jpg") top center no-repeat; font:normal 11px verdana }
+
+ul,li
+{
+  border:0;
+  font-size:100%;
+  margin:0;
+  padding:0;
+}
+
+textarea {
+	font: 12px arial;
+	}
+
+input {
+	font: 12px arial;
+	}
+
+select {
+	font: 13px arial;
+	}
+
+a { text-decoration:none;}
+a:hover { text-decoration:underline;}
+
+
+ul{
+	margin:0px auto;
+	padding:0px;
+}
+
+li{
+	list-style:none;
+}
+
+a:visited img {
+	border:0; float:inherit 
+	}
+
+a:link img {
+	border:0; float:inherit
+	}
+
+img {
+	border:0; float:inherit
+	}
+	
+.bg_main { width:100%; padding:0; margin:0 auto; background:url("https://tansik.digital.gov.eg/application/Certificates/Nile/images/gray.jpg") repeat-x  }
+
+.continer:after {
+  
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+    visibility: hidden;}
+    
+.continer:before, .continer:after { 
+       content: ""; line-height:0;
+    display:table;}
+    
+.continer   { width:1000px; margin-left:auto; margin:auto;  max-width:90% }
+.logo     { float:left; width:105px; margin:14px 0 0 448px; padding:0}
+.logo a   { float:left; width:105px; height:106px; margin:0; padding:0}
+.toplink  { float:left; width:100%; height:31px }
+
+
+
+.bgmenu:after {
+  
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+    visibility: hidden;}
+    
+.bgmenu:before, .bgmenu:after { 
+       content: ""; line-height:0;
+    display:table;}
+    
+.bgmenu   { width:1000px; margin-left:auto; margin:auto;  max-width:90% }
+
+.contentmed { width:100%; padding:0; margin:0 auto; background:#ebebeb; }
+.holdone   { width:100%; margin:auto; padding:15px 0 0 0;  }
+.ourhome   { float:left; width:500px; background:#fff; padding:0 12px 12px; margin:12px 20px 12px 12px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4); border-radius: 15px 15px 15px 15px; }
+.titleabouthom  { float:left; width:135px; height:28px; padding:7px 0 0 45px; margin:0 0 10px 20px; color:#fff; background: url("https://tansik.digital.gov.eg/application/Certificates/Nile/images/bg_abouttitl.jpg") top repeat-x; font:normal 1.3em 'ChunkFiveRegular'; }
+.bookzone   { float:left; width:400px; margin:0; padding:15px 0 0 0; background:#fd7e00; min-height:10px }
+.zoneabo    { float:left; width:100%; margin:0;  }
+.abouthomepic  { float:left; width:220px; margin:0;  }
+.abouthomecont  { float:left; width:270px; margin:0;  }
+.txtmission    { float:left; width:100%; margin:0; line-height:1.6em; text-align:justify  }
+.moreabout     { float:left; width:60px; margin:12px 0 0 206px;  }
+.rightflash { width:100%; float:left }
+.inrnaltxt  { width:100%; float:left}
+
+.medhome { width:100%; padding:0; margin:0 auto;  }
+
+.medhomecont:after {
+  
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+    visibility: hidden;}
+    
+.medhomecont:before, .fmedhomecont:after { 
+       content: ""; line-height:0;
+    display:table;}
+    
+.medhomecont   { width:1000px; margin:auto; padding:0 0 10px; background:#fff   }
+
+
+
+.copy      { float:right; text-align:center; width:100%; color:#971510; font: normal 14px tahoma;  padding:65px 0 0 }
+.copy a     { color:#000; font:normal 11px arial}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    width: 100%;
+}
+
+/* common and top level styles */
+#nav span {
+    display: none;
+}
+#nav, #nav ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0; 
+}
+#nav {
+    float: left;
+    
+    position: relative;
+    width: 100%;
+}
+#nav ul.subs {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    color: #333333;
+    display: none;
+    padding: 0;
+    position: absolute;
+    top: 54px;
+    width: 100%; z-index:100
+}
+#nav > li {
+    float: right;
+    margin-bottom: 0;
+    text-align: right;
+    -moz-transition: all 300ms ease-in-out 0s;
+    -ms-transition: all 300ms ease-in-out 0s;
+    -o-transition: all 300ms ease-in-out 0s;
+    -webkit-transition: all 300ms ease-in-out 0s;
+    transition: all 300ms ease-in-out 0s;
+}
+#nav li a {
+    display: block;
+    text-decoration: none;
+    -moz-transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    -ms-transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    -o-transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    -webkit-transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    transition: color 450ms ease-in-out 0s, background-color 450ms ease-in-out 0s;
+    white-space: normal;
+}
+#nav > li > a {
+    color: #313131; text-transform: uppercase; font: bold 18px arial;
+    display: block; width:128px;
+    line-height: 44px; text-align:center;
+    padding:  0; margin:0 2px
+}
+#nav > li:hover > a, #nav > a:hover {
+    color: #fff;  background: url("https://tansik.digital.gov.eg/application/Certificates/Nile/images/hovrmenu.png") no-repeat; 
+}
+#nav li.active > a {
+  
+    
+}
+
+/* submenu */
+#nav li:hover ul.subs {
+    display: block;width:200px
+}
+#nav ul.subs > li {
+    display: inline-block; 
+    float: none;
+    padding: 0;
+    vertical-align: top;
+    width: 100%;
+}
+#nav ul.subs > li a {
+    color: #d8d8d8; background:#5a5a5a; font-weight:normal;
+    line-height: 12px; text-align:left;  padding: 12PX;
+}
+#nav ul li a:hover {
+    color: #FFF; background:#000
+}
+#nav ul.subs > li > a {
+    font-size: 13px;
+    margin-bottom: 0;
+    
+}
+#nav ul.subs > li li {
+    float: none;
+    padding-left: 8px;
+    -moz-transition: padding 150ms ease-out 0s;
+    -ms-transition: padding 150ms ease-out 0s;
+    -o-transition: padding 150ms ease-out 0s;
+    -webkit-transition: padding 150ms ease-out 0s;
+    transition: padding 150ms ease-out 0s;
+}
+#nav ul.subs > li li:hover {
+    padding-left: 15px;
+}
+
+
+
+
+
+
+
+
+
